@@ -4,8 +4,8 @@
 
 import sys
 
--- modify this path to match your environment
--- #sys.path.append('/Users/kelvin/Documents/GitHub/mymath')
+-- modify this path to match your environment <br>
+-- #sys.path.append('/Users/kelvin/Documents/GitHub/mymath') <br>
 
 import mymath<br>
 
