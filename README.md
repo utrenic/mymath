@@ -1,15 +1,18 @@
-# mymath
+# mymath python library
 
-usage:
+<h2>usage:</h2> 
 
+<textarea 
 import sys
 
 # modify this path to match your environment
 # sys.path.append('/Users/kelvin/Documents/GitHub/mymath')
 
-import mymath
+import mymath<br>
 
-print(mymath.add(4,5))
-print(mymath.division(4, 2))
-print(mymath.multiply(10, 5))
-print(mymath.squareroot(48))
+print(mymath.add(4,5)) <br>
+print(mymath.division(4, 2)) <br>
+print(mymath.multiply(10, 5)) <br>
+print(mymath.squareroot(48)) <br>
+
+</textarea>
